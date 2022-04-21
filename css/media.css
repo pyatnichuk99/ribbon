@@ -110,6 +110,7 @@
   .header-row__social .social-phone {
     margin-top: 40px;
     margin-bottom: 20px;
+    margin-left: 0px;
   }
   .header-row__social .social-language {
     margin-bottom: 20px;
