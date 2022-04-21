@@ -304,8 +304,8 @@ a {
   stroke-dashoffset: 0;
   -webkit-animation-name: outline;
           animation-name: outline;
-  -webkit-animation-duration: 2.1s;
-          animation-duration: 2.1s;
+  -webkit-animation-duration: 2.5s;
+          animation-duration: 2.5s;
   -webkit-animation-timing-function: ease-in;
           animation-timing-function: ease-in;
   -webkit-animation-fill-mode: forwards;
